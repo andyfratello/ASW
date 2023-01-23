@@ -1,0 +1,40 @@
+.tweetitem {
+	 border: 2px solid #dfcaca;
+	 margin: 20px auto;
+	 padding: 1em;
+	 width: 90%;
+	 background-color: white;
+}
+ .tweetitem .likes {
+	 float: left;
+	 width: 95px;
+	 margin-top: 0.2em;
+	 text-align: center;
+}
+ .tweetitem .likes .numlikes {
+	 font-weight: bold;
+	 color: mediumvioletred;
+	 font-size: 1.5em;
+}
+ .tweetitem .likes .smallfont {
+	 font-size: 9pt;
+}
+ .tweetitem .item {
+	 border-left: 2px solid #dfcaca;
+	 margin-left: 115px;
+	 padding-left: 1.1em;
+}
+ .tweetitem .item h4 {
+	 display: block;
+	 margin-block-start: 1.33em;
+	 margin-block-end: 1.80em;
+	 margin-inline-start: 0px;
+	 margin-inline-end: 0px;
+	 font-weight: bold;
+}
+ .tweetitem .item h4 em {
+	 font-style: italic;
+}
+ .tweetitem .destroy {
+	 text-align: center;
+}

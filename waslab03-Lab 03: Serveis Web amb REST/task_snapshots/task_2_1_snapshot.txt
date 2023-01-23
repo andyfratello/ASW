@@ -1,0 +1,686 @@
+[
+    {
+        "id": 96152971,
+        "id_str": "96152971",
+        "name": "FestaFIB",
+        "screen_name": "FestaFIB",
+        "location": "Campus Nord",
+        "description": "Cada primer divendres de maig! 🍺💻\nFesta de la FIB, UPC\nhttps://t.co/TDb3HIUbp3 📺\nhttps://t.co/0xtTnd2FuA 🐦\nhttps://t.co/66JUb0d5Xm 👤\nFestaFIB'22",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/TDb3HIUbp3",
+                        "expanded_url": "http://twitch.tv/festafib",
+                        "display_url": "twitch.tv/festafib",
+                        "indices": [
+                            55,
+                            78
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/0xtTnd2FuA",
+                        "expanded_url": "http://instagram.com/festafib",
+                        "display_url": "instagram.com/festafib",
+                        "indices": [
+                            81,
+                            104
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/66JUb0d5Xm",
+                        "expanded_url": "http://facebook.com/festafib",
+                        "display_url": "facebook.com/festafib",
+                        "indices": [
+                            107,
+                            130
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 520,
+        "friends_count": 180,
+        "listed_count": 8,
+        "created_at": "Fri Dec 11 16:01:05 +0000 2009",
+        "favourites_count": 139,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 414,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Aug 10 12:14:15 +0000 2022",
+            "id": 1557339543812071426,
+            "id_str": "1557339543812071426",
+            "text": "Ja podeu veure el aftermovie de FestaFIB 2022 fet per @AVEDproduccions! #FestaFIB2022\n\nhttps://t.co/jw1LTIEZj5",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "FestaFIB2022",
+                        "indices": [
+                            72,
+                            85
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "AVEDproduccions",
+                        "name": "Aved Producciones",
+                        "id": 369447883,
+                        "id_str": "369447883",
+                        "indices": [
+                            54,
+                            70
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/jw1LTIEZj5",
+                        "expanded_url": "https://youtu.be/s7BNuuWtygY",
+                        "display_url": "youtu.be/s7BNuuWtygY",
+                        "indices": [
+                            87,
+                            110
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ca"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1516460192346607620/z-NumyfS_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516460192346607620/z-NumyfS_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/96152971/1650387467",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    {
+        "id": 249144910,
+        "id_str": "249144910",
+        "name": "Nelly Condori-Fernandez",
+        "screen_name": "Nellycf7",
+        "location": "España",
+        "description": "Assistant professor at University of Santiago de Compostela",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 339,
+        "friends_count": 461,
+        "listed_count": 9,
+        "created_at": "Tue Feb 08 13:25:06 +0000 2011",
+        "favourites_count": 1753,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 565,
+        "lang": null,
+        "status": {
+            "created_at": "Mon Sep 19 18:07:03 +0000 2022",
+            "id": 1571923843937173507,
+            "id_str": "1571923843937173507",
+            "text": "RT @alessferra: This year, @twinkleflip and I will be PC Co-Chairs of @WC_REFSQ deadline for submission: Fri 18th Nov. 2022, and will be in…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "alessferra",
+                        "name": "alessioferrari",
+                        "id": 903175505377198080,
+                        "id_str": "903175505377198080",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    },
+                    {
+                        "screen_name": "twinkleflip",
+                        "name": "Birgit Penzenstadler",
+                        "id": 213663083,
+                        "id_str": "213663083",
+                        "indices": [
+                            27,
+                            39
+                        ]
+                    },
+                    {
+                        "screen_name": "WC_REFSQ",
+                        "name": "REFSQ 2023",
+                        "id": 1577821027,
+                        "id_str": "1577821027",
+                        "indices": [
+                            70,
+                            79
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Sep 19 08:54:14 +0000 2022",
+                "id": 1571784721608081408,
+                "id_str": "1571784721608081408",
+                "text": "This year, @twinkleflip and I will be PC Co-Chairs of @WC_REFSQ deadline for submission: Fri 18th Nov. 2022, and wi… https://t.co/1BGFJ0FBFZ",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "twinkleflip",
+                            "name": "Birgit Penzenstadler",
+                            "id": 213663083,
+                            "id_str": "213663083",
+                            "indices": [
+                                11,
+                                23
+                            ]
+                        },
+                        {
+                            "screen_name": "WC_REFSQ",
+                            "name": "REFSQ 2023",
+                            "id": 1577821027,
+                            "id_str": "1577821027",
+                            "indices": [
+                                54,
+                                63
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/1BGFJ0FBFZ",
+                            "expanded_url": "https://twitter.com/i/web/status/1571784721608081408",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": true,
+                "quoted_status_id": 1571782065070161920,
+                "quoted_status_id_str": "1571782065070161920",
+                "retweet_count": 6,
+                "favorite_count": 21,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": true,
+            "quoted_status_id": 1571782065070161920,
+            "quoted_status_id_str": "1571782065070161920",
+            "retweet_count": 6,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/636018064660688898/_0lYEcJb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/636018064660688898/_0lYEcJb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/249144910/1440474479",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    {
+        "id": 55128017,
+        "id_str": "55128017",
+        "name": "Marcela Ruiz",
+        "screen_name": "MarceRuiz",
+        "location": "Winterthur, Switzerland",
+        "description": "Enthusiastic researcher and docent @ZHAW | #softwareengineering, #MDE, #softwaretraceability, #requirementsengineering | Promoting the role of Women in #STEM",
+        "url": "https://t.co/zftV3TCs3Q",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/zftV3TCs3Q",
+                        "expanded_url": "http://www.marcelaruiz.eu",
+                        "display_url": "marcelaruiz.eu",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 274,
+        "friends_count": 384,
+        "listed_count": 5,
+        "created_at": "Thu Jul 09 03:27:04 +0000 2009",
+        "favourites_count": 1421,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 324,
+        "lang": null,
+        "status": {
+            "created_at": "Tue Sep 20 21:06:55 +0000 2022",
+            "id": 1572331495167242240,
+            "id_str": "1572331495167242240",
+            "text": "Looking forward to a fantastic workshops program for @CAiSEConf 2023!\n\n#CAiSE23 #IS #Informationsystems #workshop… https://t.co/klSh52H4Ud",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "CAiSE23",
+                        "indices": [
+                            71,
+                            79
+                        ]
+                    },
+                    {
+                        "text": "IS",
+                        "indices": [
+                            80,
+                            83
+                        ]
+                    },
+                    {
+                        "text": "Informationsystems",
+                        "indices": [
+                            84,
+                            103
+                        ]
+                    },
+                    {
+                        "text": "workshop",
+                        "indices": [
+                            104,
+                            113
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "CAiSEConf",
+                        "name": "CAiSE Conf",
+                        "id": 857524296738111488,
+                        "id_str": "857524296738111488",
+                        "indices": [
+                            53,
+                            63
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/klSh52H4Ud",
+                        "expanded_url": "https://twitter.com/i/web/status/1572331495167242240",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            115,
+                            138
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1572331492633882626,
+            "in_reply_to_status_id_str": "1572331492633882626",
+            "in_reply_to_user_id": 55128017,
+            "in_reply_to_user_id_str": "55128017",
+            "in_reply_to_screen_name": "MarceRuiz",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1008793254450679810/Xt0eF0NB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1008793254450679810/Xt0eF0NB_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    {
+        "id": 80763139,
+        "id_str": "80763139",
+        "name": "Antonio Vallecillo",
+        "screen_name": "AVallecillo",
+        "location": "Málaga, Spain",
+        "description": "Herding cats...",
+        "url": "https://t.co/8wjRoeBuGp",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/8wjRoeBuGp",
+                        "expanded_url": "http://www.lcc.uma.es/~av",
+                        "display_url": "lcc.uma.es/~av",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1174,
+        "friends_count": 792,
+        "listed_count": 46,
+        "created_at": "Thu Oct 08 04:15:22 +0000 2009",
+        "favourites_count": 4126,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3770,
+        "lang": null,
+        "status": {
+            "created_at": "Fri Sep 23 05:23:05 +0000 2022",
+            "id": 1573181133168455680,
+            "id_str": "1573181133168455680",
+            "text": "@FaraonLlorens @SEFI_HQ @ICEUPC @UA_Universidad Enhorabuena, Faraón!!! Un premio más que merecido 👏👏👏",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "FaraonLlorens",
+                        "name": "Faraón Llorens",
+                        "id": 494878012,
+                        "id_str": "494878012",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    },
+                    {
+                        "screen_name": "SEFI_HQ",
+                        "name": "SEFI HQ",
+                        "id": 2330129203,
+                        "id_str": "2330129203",
+                        "indices": [
+                            15,
+                            23
+                        ]
+                    },
+                    {
+                        "screen_name": "ICEUPC",
+                        "name": "ICE-UPC",
+                        "id": 1552602157,
+                        "id_str": "1552602157",
+                        "indices": [
+                            24,
+                            31
+                        ]
+                    },
+                    {
+                        "screen_name": "UA_Universidad",
+                        "name": "Universidad de Alicante UA",
+                        "id": 266544890,
+                        "id_str": "266544890",
+                        "indices": [
+                            32,
+                            47
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1572840346257596416,
+            "in_reply_to_status_id_str": "1572840346257596416",
+            "in_reply_to_user_id": 494878012,
+            "in_reply_to_user_id_str": "494878012",
+            "in_reply_to_screen_name": "FaraonLlorens",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000731816968/9ceff12db40406c6640e88e7946be63b_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000731816968/9ceff12db40406c6640e88e7946be63b_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80763139/1364733353",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    {
+        "id": 1446236391831113730,
+        "id_str": "1446236391831113730",
+        "name": "dogo4ml",
+        "screen_name": "dogo4ml",
+        "location": "",
+        "description": "Research project conducted by @gessi_upc and @DTIM_UPC that proposes a holistic end-to-end framework to develop, operate and govern MLSS and their data.",
+        "url": "https://t.co/VxdsI8z3Tv",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/VxdsI8z3Tv",
+                        "expanded_url": "https://dogo4ml.upc.edu",
+                        "display_url": "dogo4ml.upc.edu",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 20,
+        "friends_count": 22,
+        "listed_count": 0,
+        "created_at": "Thu Oct 07 22:12:21 +0000 2021",
+        "favourites_count": 11,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7,
+        "lang": null,
+        "status": {
+            "created_at": "Thu Jul 21 13:19:19 +0000 2022",
+            "id": 1550108159284592640,
+            "id_str": "1550108159284592640",
+            "text": "PhD position in Data and Software Engineering for Machine Learning Systems at Universitat Politècnica de Catalunya… https://t.co/QqfD5yfVVv",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/QqfD5yfVVv",
+                        "expanded_url": "https://twitter.com/i/web/status/1550108159284592640",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 11,
+            "favorite_count": 6,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ca"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1451483487601577985/m-LclN2H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1451483487601577985/m-LclN2H_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1446236391831113730/1634896255",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    }
+]

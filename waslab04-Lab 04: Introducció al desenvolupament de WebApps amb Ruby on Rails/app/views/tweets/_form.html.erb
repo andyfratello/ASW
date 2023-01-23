@@ -1,0 +1,22 @@
+<%= form_with(model: tweet) do |form| %>
+  <table border-style="0", cellpadding="2">
+    <tbody>
+      <tr>
+        <td>Your name:</td>
+        <td>
+          <input size="70" type="text" name="tweet[author]" id="tweet_author">
+        </td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Your tweet:</td>
+        <td>
+          <textarea rows="2" cols="70" name="tweet[content]" id="tweet_content"></textarea>
+        </td>
+        <td>
+          <input type="submit" name="commit" value="Tweet!" data-disable-with="Tweet!">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+<% end %>

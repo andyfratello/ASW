@@ -1,0 +1,31 @@
+<center><h1>Wall of Tweets - 2022</h1></center>
+<br>
+<div class="walltweet">
+  <%= render 'form', tweet: @tweet %>
+</div>
+
+<% if notice %>
+<br>
+<div class="tweetitem" id="notice">
+  <% if notice[0] == "1" %>
+    <% notice.slice!(0) %>
+    <span style="color: green;"><%= notice %></span>
+  <% else %>
+    <span style="color: red;"><%= notice %></span>
+  <% end %>
+</div>
+<% end %>
+
+<div id="tweets">
+  <% @actual_day = "" %>
+  <% @tweets.each do |tweet| %>
+   <% @tweeet_day = tweet.created_at.strftime("%A, %B %d, %Y") %>
+    <% if @actual_day != @tweeet_day %>
+    <h3>
+      ......
+      <%= @actual_day = @tweeet_day %>
+    </h3>
+  <% end %>
+  <%= render tweet %>
+  <% end %>
+  </div>

@@ -1,0 +1,30 @@
+ <div class="tweetitem" id=tweet.id>
+    <div class="likes">
+      <span class="numlikes" id="showLikes_<%= tweet.id %>"><%= tweet.likes %></span>
+      <br>
+      <span class="smallfont">
+        people like this
+        <span>
+          <br>
+          <% if session[:created_ids].nil? || !session[:created_ids].include?(tweet.id)%>
+          <br>
+              <%= button_to 'Like', like_tweet_path(tweet), method: :put %>
+        <% else %>
+            <p class="destroy" >
+            <%= button_to 'Destroy', tweet, method: :delete, data: { confirm: 'Are you sure?' } %>
+      </p>
+      <% end %>
+          </span>
+        </span>
+
+      </div>
+      <div class="item">
+        <h4>
+          <em><%= tweet.author %></em>
+           @ <%= tweet.created_at.strftime("%H:%M") %>
+        </h4>
+        <em><%= tweet.content %></em>
+    </div>
+  </div>
+</div>
+

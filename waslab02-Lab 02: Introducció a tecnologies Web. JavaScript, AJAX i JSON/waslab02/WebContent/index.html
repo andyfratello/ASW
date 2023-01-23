@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Wall of Tweets 2</title>
+<link href="wallstyle.css" rel="stylesheet" type="text/css" />
+</head>
+<body class="wallbody">
+	<h1 class="walltitle">Wall of Tweets 2</h1>
+	<div class="walltweet">
+		<table border=0 cellpadding=2>
+			<tr>
+				<td>Your name:</td>
+				<td><input id="tweet_author" type="text" size=70></td>
+				<td />
+			</tr>
+			<tr>
+				<td>Your tweet:</td>
+				<td><textarea id="tweet_text" rows="2" cols="70"></textarea>
+				</td>
+				<td><input type="submit" id="tweet_submit" value="Tweet!">
+				</td>
+			</tr>
+		</table>
+	</div>
+	<br>
+	<div id='tweet_list'></div>
+	<script src="wall-01.js" type="application/javascript"></script>
+	<script type="application/javascript">window.onload = main;</script>
+</body>
+</html>
